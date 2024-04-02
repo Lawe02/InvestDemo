@@ -1,0 +1,14 @@
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.csproj.AssemblyReference.cache
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.AssemblyInfo.cs
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\bin\Debug\net7.0\InvestDemoLibrary.deps.json
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\bin\Debug\net7.0\InvestDemoLibrary.dll
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\bin\Debug\net7.0\InvestDemoLibrary.pdb
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.dll
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\refint\InvestDemoLibrary.dll
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.pdb
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\ref\InvestDemoLibrary.dll
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\bin\Debug\net7.0\InvestDemoLibrary.runtimeconfig.json
+C:\Users\lawza\source\repos\InvestmentDemo\InvestDemoLibrary\obj\Debug\net7.0\InvestDemoLibrary.genruntimeconfig.cache
